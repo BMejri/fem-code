@@ -65,18 +65,5 @@ plt.ylabel("y(s)")
 plt.title("c-example")
 plt.legend()
 plt.show()
-
-
-\begin{algorithm}
-\caption{Finite Element Solver}
-    \begin{algorithmic}[1]
-        \STATE Construct uniform mesh
-        \FOR{each element}
-            \STATE Compute local matrices
-            \STATE Assemble global system
-        \ENDFOR
-        \STATE Apply Dirichlet boundary conditions
-        \STATE Solve linear system
-        \STATE Return solution
     \end{algorithmic}
 \end{algorithm}         
