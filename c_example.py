@@ -2,6 +2,7 @@
     Finite Element Solver for a 1D c-example
     Author: Bochra Mejri 
     Lecture: Regularization Theory: From Functional Analysis to Machine Learning 
+    University of Vienna - Oct 2025 
     Level: Master students
 """
 
