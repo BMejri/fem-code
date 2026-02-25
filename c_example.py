@@ -65,5 +65,3 @@ plt.ylabel("y(s)")
 plt.title("c-example")
 plt.legend()
 plt.show()
-    \end{algorithmic}
-\end{algorithm}         
