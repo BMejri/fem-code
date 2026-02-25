@@ -1,9 +1,9 @@
 """
     Finite Element Solver for a 1D c-example
     Author: Bochra Mejri 
-    Lecture: Regularization Theory: From Functional Analysis to Machine Learning 
-    University of Vienna - Oct 2025 
+    Lecture: Regularization Theory: From Functional Analysis to Machine Learning  
     Level: Master students
+    University of Vienna - Oct 2025
 """
 
 import numpy as np
